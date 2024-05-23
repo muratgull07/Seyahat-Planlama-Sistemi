@@ -1,3 +1,6 @@
+// Öncelikle Seyahat Rotası oluşturulur, ardından Konaklama Tesisi seçilir ve Fiyat belirlenir ve Seyahat Planı Oluşturulur.
+
+
 ![Ekran görüntüsü 2024-05-06 154853](https://github.com/muratgull07/Seyahat-Planlama-Sistemi/assets/148050387/7f4efffd-aeb1-4d17-a124-ab3083635878)
 
 
